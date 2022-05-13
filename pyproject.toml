@@ -6,10 +6,11 @@ authors = ["swhustla <fdkelly@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-fastai = "^2.5.3"
+fastai = "1.0.61"
 tensorboard-pytorch = "^0.7.1"
 jupyterlab = "^3.2.8"
 torchtext = "^0.11.2"
+spacy = "^3.2.2"
 
 [tool.poetry.dev-dependencies]
 
